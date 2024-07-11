@@ -1,5 +1,16 @@
-This is your new *vault*.
+# h1 Heading ![😎](https://twemoji.maxcdn.com/v/14.0.2/72x72/1f60e.png)
 
-Make a note of something, [[create a link]], or try [the Importer](https://help.obsidian.md/Plugins/Importer)!
+## h2 Heading
 
-When you're ready, delete this note and make the vault your own.
+### h3 Heading
+
+#### h4 Heading
+
+##### h5 Heading
+
+###### h6 Heading
+
+## Horizontal Rules
+--- 
+---
+---
