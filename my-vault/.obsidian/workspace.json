@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "dir2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "dir2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "dir2.md"
               }
             }
           }
@@ -171,13 +171,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "54c57f3efd49d5df",
+  "active": "b30b650bead1ba8c",
   "lastOpenFiles": [
+    "Welcome.md",
+    "Test Note.md",
     "dir2.md",
     "vasfvas.md",
     "fdvfdsvfs",
-    "Test Note.md",
-    "dir1",
-    "Welcome.md"
+    "dir1"
   ]
 }
