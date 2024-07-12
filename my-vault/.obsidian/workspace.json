@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/front-matter.md",
+                "file": "notes/templates/front-matter.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/front-matter.md",
+                "file": "notes/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/front-matter.md",
+                "file": "notes/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/front-matter.md",
+                "file": "notes/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/front-matter.md"
+                "file": "notes/_index.md"
               }
             }
           }
@@ -184,12 +184,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "373511d61a7ef6f2",
+  "active": "54c57f3efd49d5df",
   "lastOpenFiles": [
+    "notes/templates/front-matter.md",
     "templates/date.md",
-    "templates/front-matter.md",
     "notes/dir-2/test-note-2.md",
-    "templates",
+    "notes/templates",
     "notes/dir-3/test-note-3.md",
     "notes/_index.md",
     "notes/dir-2/_index.md",
