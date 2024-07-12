@@ -11,11 +11,28 @@
             "id": "daf6d55dcdf79296",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "notes/dir-1/_index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c811fc0064904765",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New file!.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "New file!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "New file!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "New file!.md"
+              }
             }
           }
         ]
@@ -138,8 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "daf6d55dcdf79296",
+  "active": "c811fc0064904765",
   "lastOpenFiles": [
+    "notes/dir-1/_index.md",
+    "New file!.md",
     "notes/dir-3/test-note-3.md",
     "notes/dir-3/_index.md",
     "notes/dir-3",
@@ -147,7 +170,6 @@
     "notes/dir-2/_index.md",
     "notes/dir-2",
     "notes/dir-1/test-note-1.md",
-    "notes/dir-1/_index.md",
     "notes/dir-1",
     "_index.md",
     "dir-3/test-note-3.md",
