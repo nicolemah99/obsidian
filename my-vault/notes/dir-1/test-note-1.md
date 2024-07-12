@@ -1,7 +1,6 @@
 +++
-title = 'test-note-1'
+title = '{{ replace .File.ContentBaseName "-" " " | title }}'
 +++
-
 # h1 Heading [😎](https://twemoji.maxcdn.com/v/14.0.2/72x72/1f60e.png)
 
 ## h2 Heading
