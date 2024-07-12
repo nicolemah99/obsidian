@@ -49,7 +49,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OO a directory/Untitled 1.md",
+                "file": "New note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fd90158b0d67219a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dffd.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -158,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OO a directory/Untitled 1.md",
+                "file": "dffd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OO a directory/Untitled 1.md",
+                "file": "dffd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OO a directory/Untitled 1.md"
+                "file": "dffd.md"
               }
             }
           }
@@ -219,11 +231,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "54c57f3efd49d5df",
+  "active": "fd90158b0d67219a",
   "lastOpenFiles": [
+    "New note.md",
+    "dffd.md",
+    "OO a directory/Untitled 1.md",
     "OO a directory",
     "Another File.md",
-    "OO a directory/Untitled 1.md",
     "Another Test.md",
     "test-note-3.md",
     "We are back on track!.md",
@@ -231,7 +245,6 @@
     "dir1/test-note-1.md",
     "dir1/dir2/test-note-2.md",
     "test-note-4.md",
-    "New note.md",
     "change.md",
     "dir1/dir2.md",
     "dir3",
