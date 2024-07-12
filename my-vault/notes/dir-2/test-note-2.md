@@ -1,7 +1,3 @@
-+++
-title = 'test-note-2'
-+++
-
 ## Code
 
 Inline `code`
