@@ -1,0 +1,17 @@
+name: Trigger Dispatch Event
+
+on:
+  push:
+    branches:
+      - "main"
+
+jobs:
+  trigger-dispatch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger repository_dispatch
+        run: |
+          curl -X POST -H "Accept: application/vnd.github.v3+json" \
+          -H "Authorization: token ${{ secrets.PERSONAL_ACCESS_TOKEN }}" \
+          https://api.github.com/repos/nicolemah99/obsidian-site/dispatches \
+          -d '{"event_type":"deploy", "client_payload": {"update": true, "message": "New content updated"}}'
