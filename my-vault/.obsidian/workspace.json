@@ -8,55 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f3f12b7d713664ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dir1/dir2/test-note-2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c66cd1bf59656438",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dir1/dir2/test-note-2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "846eb7d3b6392dcf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test-note-3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1459b97fc99459c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dir1/test-note-1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0783f83a7b8de8d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "adafe26a261b0016",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -104,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test-note-4.md",
+                "file": "test-note-3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test-note-4.md",
+                "file": "test-note-3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test-note-4.md"
+                "file": "test-note-3.md"
               }
             }
           }
@@ -231,16 +195,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3fe03e23c0ea7d89",
+  "active": "adafe26a261b0016",
   "lastOpenFiles": [
+    "We are back on track!.md",
     "Untitled.md",
-    "New note.md",
-    "Another Test.md",
-    "test-note-4.md",
     "test-note-3.md",
     "dir1/test-note-1.md",
-    "change.md",
     "dir1/dir2/test-note-2.md",
+    "test-note-4.md",
+    "New note.md",
+    "Another Test.md",
+    "change.md",
     "dir1/dir2.md",
     "dir3",
     "dir1/dir2",
