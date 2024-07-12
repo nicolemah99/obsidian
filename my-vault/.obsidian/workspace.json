@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "notes/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Another Test.md",
+                "file": "notes/Another Test.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Another File.md",
+                "file": "notes/Another File.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New note.md",
+                "file": "notes/New note.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dffd.md",
+                "file": "notes/dffd.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0baa4ea01c688b05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/Untitled 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Another Test.md",
+                "file": "notes/Another Test.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "notes/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,14 +109,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test-note-4.md",
+                "file": "notes/test-note-4.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -170,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dffd.md",
+                "file": "notes/Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dffd.md",
+                "file": "notes/Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dffd.md"
+                "file": "notes/Untitled 1.md"
               }
             }
           }
@@ -231,26 +243,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fd90158b0d67219a",
+  "active": "54c57f3efd49d5df",
   "lastOpenFiles": [
-    "New note.md",
-    "dffd.md",
-    "OO a directory/Untitled 1.md",
-    "OO a directory",
-    "Another File.md",
-    "Another Test.md",
-    "test-note-3.md",
-    "We are back on track!.md",
-    "Untitled.md",
-    "dir1/test-note-1.md",
-    "dir1/dir2/test-note-2.md",
-    "test-note-4.md",
-    "change.md",
+    "notes/_index.md",
+    "dir1/_index.md",
+    "_index.md",
+    "notes/dffd.md",
+    "notes/Untitled 1.md",
+    "notes/New note.md",
+    "notes/OO a directory/Untitled 1.md",
+    "notes/OO a directory",
+    "notes/Another File.md",
+    "notes/Another Test.md",
+    "notes/test-note-3.md",
+    "notes/We are back on track!.md",
+    "notes/Untitled.md",
+    "notes/test-note-1.md",
+    "notes/dir2/test-note-2.md",
+    "notes/test-note-4.md",
+    "notes/change.md",
     "dir1/dir2.md",
     "dir3",
-    "dir1/dir2",
+    "notes/dir2",
     "vasfvas.md",
     "fdvfdsvfs",
-    "dir1"
+    "notes"
   ]
 }
