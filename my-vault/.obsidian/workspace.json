@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/templates/front-matter.md",
+                "file": "notes/dir-3/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/templates/front-matter.md",
+                "file": "notes/dir-3/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/templates/front-matter.md",
+                "file": "notes/dir-3/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/templates/front-matter.md"
+                "file": "notes/dir-3/_index.md"
               }
             }
           }
@@ -198,8 +198,8 @@
   },
   "active": "323688f56d65ccc9",
   "lastOpenFiles": [
-    "notes/dir-3/_index.md",
     "notes/templates/front-matter.md",
+    "notes/dir-3/_index.md",
     "notes/dir-3/test-note-3.md",
     "notes/templates/_index.md",
     "notes/_index.md",
