@@ -1,7 +1,9 @@
 name: Trigger Dispatch Event
 
 on:
-  pu
+  push:
+    branches:
+      - main
   workflow_dispatch:
 
 
