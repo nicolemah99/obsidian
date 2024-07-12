@@ -8,115 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0783f83a7b8de8d1",
+            "id": "daf6d55dcdf79296",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "adafe26a261b0016",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/Another Test.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "625ef24b26066a59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/Another File.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "18ab1dfcb716fa23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/New note.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fd90158b0d67219a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/dffd.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0baa4ea01c688b05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/Untitled 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "edd72e393c3c96ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/Another Test.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "59480edb4892288e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3fe03e23c0ea7d89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/test-note-4.md",
+                "file": "notes/dir-2/test-note-2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Untitled 1.md",
+                "file": "notes/dir-2/test-note-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Untitled 1.md",
+                "file": "notes/dir-2/test-note-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Untitled 1.md"
+                "file": "notes/dir-2/test-note-2.md"
               }
             }
           }
@@ -243,28 +146,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "54c57f3efd49d5df",
+  "active": "daf6d55dcdf79296",
   "lastOpenFiles": [
+    "notes/dir-2/_index.md",
+    "notes/dir-3/test-note-3.md",
+    "notes/dir-1/test-note-1.md",
+    "notes/dir-2/test-note-2.md",
+    "notes/test-note-3.md",
+    "notes/Another Test.md",
+    "notes/Another File.md",
+    "notes/New note.md",
+    "notes/We are back on track!.md",
+    "notes/dir2/Untitled 1.md",
+    "notes/dir-3/_index.md",
+    "Untitled 1.md",
+    "notes/OO a directory/_index.md",
+    "notes/dir-3",
+    "notes/dir-2",
+    "notes/Untitled 1.md",
+    "notes/Untitled.md",
     "notes/_index.md",
     "dir1/_index.md",
     "_index.md",
     "notes/dffd.md",
-    "notes/Untitled 1.md",
-    "notes/New note.md",
     "notes/OO a directory/Untitled 1.md",
     "notes/OO a directory",
-    "notes/Another File.md",
-    "notes/Another Test.md",
-    "notes/test-note-3.md",
-    "notes/We are back on track!.md",
-    "notes/Untitled.md",
-    "notes/test-note-1.md",
-    "notes/dir2/test-note-2.md",
     "notes/test-note-4.md",
     "notes/change.md",
     "dir1/dir2.md",
     "dir3",
-    "notes/dir2",
+    "notes/dir-1",
     "vasfvas.md",
     "fdvfdsvfs",
     "notes"
