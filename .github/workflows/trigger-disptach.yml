@@ -1,7 +1,9 @@
 name: Trigger Dispatch Event
 
 on:
+  pu
   workflow_dispatch:
+
 
 jobs:
   trigger:
