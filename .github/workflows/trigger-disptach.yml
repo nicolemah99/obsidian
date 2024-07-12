@@ -9,7 +9,7 @@ jobs:
   trigger-dispatch:
     runs-on: ubuntu-latest
     steps:
-      - name: Trigger repository_dispatch
+      - name: Trigger Workflow in Another Repository
         run: |
           curl -X POST -H "Accept: application/vnd.github.v3+json" \
           -H "Authorization: token ${{ secrets.PERSONAL_ACCESS_TOKEN }}" \
