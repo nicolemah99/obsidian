@@ -1,3 +1,7 @@
+---
+title: test-note-2
+date: 2024-07-12T13:24:00
+---
 ## Code
 
 Inline `code`
