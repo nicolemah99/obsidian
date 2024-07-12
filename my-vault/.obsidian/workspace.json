@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/dir-2/test-note-2.md",
+                "file": "notes/dir-3/test-note-3.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/dir-2/test-note-2.md",
+                "file": "notes/dir-3/test-note-3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/dir-2/test-note-2.md",
+                "file": "notes/dir-3/test-note-3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/dir-2/test-note-2.md"
+                "file": "notes/dir-3/test-note-3.md"
               }
             }
           }
@@ -186,13 +186,13 @@
   },
   "active": "323688f56d65ccc9",
   "lastOpenFiles": [
+    "notes/dir-1/test-note-1.md",
+    "notes/dir-2/test-note-2.md",
     "notes/dir-3/test-note-3.md",
     "notes/templates/_index.md",
     "notes/dir-3/_index.md",
     "notes/_index.md",
     "notes/templates/front-matter.md",
-    "notes/dir-1/test-note-1.md",
-    "notes/dir-2/test-note-2.md",
     "notes/dir-2/_index.md",
     "templates/date.md",
     "notes/templates",
