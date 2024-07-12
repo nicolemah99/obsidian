@@ -13,13 +13,15 @@ on:
 jobs:
   trigger:
     runs-on: ubuntu-latest
-    
+
     steps:
       - name: Trigger Workflow in Another Repository
         run: |
           repo_owner="nicolemah99"
           repo_name="obsidian-site"
-          event_type="trigger-deploy"    
+          event_type="deploy"
+          service=${{ github.event.inputs.target_service }}"
+          version="${{ github.event.inputs.target_version }}"
 
           curl -L \
             -X POST \ 
