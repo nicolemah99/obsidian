@@ -13,8 +13,9 @@ jobs:
         run: |
           repo_owner="nicolemah99"
           repo_name="obsidian-site"
-          event_type="trigger-deploy"        
+          event_type="trigger-deploy"    
+
           curl -X POST -H "Accept: application/vnd.github.v3+json" \
           -H "Authorization: token ${{ secrets.PERSONAL_ACCESS_TOKEN }}" \
-          https://api.github.com/repos/nicolemah99/obsidian-site/dispatches \
+          https://api.github.com/repos/$repo_owner/$repo_name/obsidian-site/dispatches \
           -d '{"event_type":"deploy", "client_payload": {"update": true, "message": "New content updated"}}'
