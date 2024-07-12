@@ -159,13 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a2056de39efdd272",
+  "active": "54c57f3efd49d5df",
   "lastOpenFiles": [
+    "notes/_index.md",
+    "notes/dir-3/test-note-3.md",
     "notes/dir-2/test-note-2.md",
     "notes/dir-2/_index.md",
     "notes/dir-3/_index.md",
-    "notes/dir-3/test-note-3.md",
-    "notes/_index.md",
     "new_note.md",
     "New file!.md",
     "New file numer 2.md",
