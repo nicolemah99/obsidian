@@ -1,13 +1,19 @@
 name: Trigger Dispatch Event
 
 on:
-  push:
-    branches:
-      - "main"
+  workflow_dispatch:
+    inputs:
+      target_service:
+        description: 'Input a service name (e.g., demo-app)'
+        required: true
+      target_version:
+        description: 'Input a version (e.g., v1.0.0)'
+        required: true
 
 jobs:
-  trigger-dispatch:
+  trigger:
     runs-on: ubuntu-latest
+    
     steps:
       - name: Trigger Workflow in Another Repository
         run: |
