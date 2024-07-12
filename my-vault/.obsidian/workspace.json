@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "323688f56d65ccc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/templates/front-matter.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/_index.md",
+                "file": "notes/templates/front-matter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/_index.md",
+                "file": "notes/templates/front-matter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/_index.md"
+                "file": "notes/templates/front-matter.md"
               }
             }
           }
@@ -184,14 +196,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "54c57f3efd49d5df",
+  "active": "323688f56d65ccc9",
   "lastOpenFiles": [
+    "notes/templates/_index.md",
+    "notes/_index.md",
     "notes/templates/front-matter.md",
     "templates/date.md",
     "notes/dir-2/test-note-2.md",
     "notes/templates",
     "notes/dir-3/test-note-3.md",
-    "notes/_index.md",
     "notes/dir-2/_index.md",
     "notes/dir-3/_index.md",
     "new_note.md",
@@ -202,7 +215,6 @@
     "notes/dir-2",
     "notes/dir-1/test-note-1.md",
     "notes/dir-1",
-    "_index.md",
     "dir-3/test-note-3.md",
     "dir-3/_index.md",
     "dir-3",
@@ -218,7 +230,6 @@
     "notes/New note.md",
     "notes/We are back on track!.md",
     "notes/dir2/Untitled 1.md",
-    "Untitled 1.md",
     "notes/OO a directory",
     "dir3",
     "fdvfdsvfs"
