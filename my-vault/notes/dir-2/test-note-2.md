@@ -1,7 +1,12 @@
----
-title: test-note-2
-date: 2024-07-12T13:24:00
----
++++
+
+title = '{{ replace .File.ContentBaseName "-" " " | title }}'
+
+date = {{ .Date }}
+
+draft = true
+
++++
 ## Code
 
 Inline `code`

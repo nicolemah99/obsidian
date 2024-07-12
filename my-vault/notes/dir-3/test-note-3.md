@@ -1,9 +1,6 @@
----
-title: <% tp.date.now("Do MMMM YYYY") %>
----
----
-title: 12th July 2024
----
++++
+title = '{{ replace .File.ContentBaseName "-" " " | title }}'
++++
 # This is a Header
 ## So is this
 ### Me too!
