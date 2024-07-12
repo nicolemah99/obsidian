@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test-note-3.md",
+                "file": "Another Test.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test-note-3.md",
+                "file": "Another Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test-note-3.md",
+                "file": "Another Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test-note-3.md"
+                "file": "Another Test.md"
               }
             }
           }
@@ -195,11 +195,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "adafe26a261b0016",
+  "active": "54c57f3efd49d5df",
   "lastOpenFiles": [
+    "test-note-3.md",
     "We are back on track!.md",
     "Untitled.md",
-    "test-note-3.md",
     "dir1/test-note-1.md",
     "dir1/dir2/test-note-2.md",
     "test-note-4.md",
