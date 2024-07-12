@@ -1,3 +1,5 @@
----
-title: <% tp.date.now("Do MMMM YYYY") %>
----
++++
+title = '{{ replace .File.ContentBaseName "-" " " | title }}'
+date = {{ .Date }}
+draft = true
++++
