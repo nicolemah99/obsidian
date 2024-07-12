@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "625ef24b26066a59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Another File.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "edd72e393c3c96ab",
             "type": "leaf",
             "state": {
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Another Test.md",
+                "file": "Another File.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Another Test.md",
+                "file": "Another File.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Another Test.md"
+                "file": "Another File.md"
               }
             }
           }
@@ -195,8 +207,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "54c57f3efd49d5df",
+  "active": "625ef24b26066a59",
   "lastOpenFiles": [
+    "Another Test.md",
+    "Another File.md",
     "test-note-3.md",
     "We are back on track!.md",
     "Untitled.md",
@@ -204,7 +218,6 @@
     "dir1/dir2/test-note-2.md",
     "test-note-4.md",
     "New note.md",
-    "Another Test.md",
     "change.md",
     "dir1/dir2.md",
     "dir3",
