@@ -1,5 +1,7 @@
 +++
-title = 'test-note-3'
+title = '{{ replace .File.ContentBaseName "-" " " | title }}'
+date = {{ .Date }}
+draft = true
 +++
 
 # This is a Header
