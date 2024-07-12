@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "e6f722ec960611bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/templates/front-matter.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "373511d61a7ef6f2",
             "type": "leaf",
             "state": {
@@ -61,14 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/_index.md",
+                "file": "notes/dir-2/test-note-2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/_index.md",
+                "file": "notes/dir-2/test-note-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/_index.md",
+                "file": "notes/dir-2/test-note-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/_index.md"
+                "file": "notes/dir-2/test-note-2.md"
               }
             }
           }
@@ -198,14 +186,14 @@
   },
   "active": "323688f56d65ccc9",
   "lastOpenFiles": [
-    "notes/dir-3/_index.md",
-    "notes/templates/front-matter.md",
     "notes/dir-3/test-note-3.md",
+    "notes/templates/_index.md",
+    "notes/dir-3/_index.md",
     "notes/_index.md",
+    "notes/templates/front-matter.md",
     "notes/dir-1/test-note-1.md",
     "notes/dir-2/test-note-2.md",
     "notes/dir-2/_index.md",
-    "notes/templates/_index.md",
     "templates/date.md",
     "notes/templates",
     "new_note.md",
