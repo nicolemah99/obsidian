@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/dir-1/test-note-1.md",
+                "file": "notes/Quizzes/test-note-1.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/dir-1/new-note!.md",
+                "file": "notes/Quizzes/Ruby.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/dir-1/new-note!.md",
+                "file": "notes/Quizzes/Ruby.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/dir-1/new-note!.md",
+                "file": "notes/Quizzes/Ruby.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/dir-1/new-note!.md"
+                "file": "notes/Quizzes/Ruby.md"
               }
             }
           }
@@ -172,12 +172,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "54c57f3efd49d5df",
+  "active": "0f8ed912a6be6091",
   "lastOpenFiles": [
-    "notes/dir-1/test-note-1.md",
-    "notes/dir-1/new-note!.md",
-    "notes/dir-3/test-note-3.md",
     "notes/dir-2/test-note-2.md",
+    "notes/Quizzes/test-note-1.md",
+    "notes/Quizzes/Ruby.md",
+    "notes/Cookies/Oatmeal Chocolate Chip Cookies.md",
     "notes/dir-3/_index.md",
     "notes/dir-2/_index.md",
     "notes/dir-1/_index.md",
@@ -189,9 +189,9 @@
     "new_note.md",
     "New file!.md",
     "New file numer 2.md",
-    "notes/dir-3",
+    "notes/Cookies",
     "notes/dir-2",
-    "notes/dir-1",
+    "notes/Quizzes",
     "dir-3/test-note-3.md",
     "dir-3/_index.md",
     "dir-3",
